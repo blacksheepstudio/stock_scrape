@@ -31,7 +31,7 @@ import __future__
 # TODO: Automate ingests at x time
 # TODO: Round Robin for stock ingest
 # TODO: Method that writes Account.history to csv
-
+# TODO: Use Keras for deep learning
 
 class Account(object):
     """
